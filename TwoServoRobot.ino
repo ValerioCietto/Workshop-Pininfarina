@@ -1,4 +1,4 @@
-* 
+/* 
  Two legged robot
  @Author Valerio Cietto
 */
